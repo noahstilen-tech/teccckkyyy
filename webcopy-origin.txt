@@ -1,0 +1,52 @@
+Uri: https://assets.calendly.com/assets/booking/css/booking-3cc76a1cf.css
+File Name: C:\Downloaded Web Sites\calendly.com\assets\booking\css\booking-3cc76a1cf.css
+Content Type: text/css
+
+Uri: https://assets.calendly.com/assets/booking/js/booking-cf6ea36bc.js
+File Name: C:\Downloaded Web Sites\calendly.com\assets\booking\js\booking-cf6ea36bc.js
+Content Type: text/javascript
+
+Uri: https://assets.calendly.com/assets/booking/media/check-9d16ea541395bb9d62d5.svg
+File Name: C:\Downloaded Web Sites\calendly.com\assets\booking\media\check-9d16ea541395bb9d62d5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.calendly.com/assets/booking/media/flags-007b2705c0a8f69dfdf6.png
+File Name: C:\Downloaded Web Sites\calendly.com\assets\booking\media\flags-007b2705c0a8f69dfdf6.png
+Content Type: image/png
+
+Uri: https://assets.calendly.com/assets/booking/media/flags@2x-9d5328fb490cddd43f66.png
+File Name: C:\Downloaded Web Sites\calendly.com\assets\booking\media\flags@2x-9d5328fb490cddd43f66.png
+Content Type: image/png
+
+Uri: https://assets.calendly.com/assets/booking/media/paypal-checkout-logo-3895552a5f46f247e4af.svg
+File Name: C:\Downloaded Web Sites\calendly.com\assets\booking\media\paypal-checkout-logo-3895552a5f46f247e4af.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.calendly.com/assets/favicon-bfb0492a754bdf44a0a58b969963f44235653cca09a1c0110309c1e03077e368.ico
+File Name: C:\Downloaded Web Sites\calendly.com\assets\favicon-bfb0492a754bdf44a0a58b969963f44235653cca09a1c0110309c1e03077e368.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://assets.calendly.com/assets/touch-icon-ipad-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+File Name: C:\Downloaded Web Sites\calendly.com\assets\touch-icon-ipad-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+Content Type: image/png
+
+Uri: https://assets.calendly.com/assets/touch-icon-ipad-retina-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+File Name: C:\Downloaded Web Sites\calendly.com\assets\touch-icon-ipad-retina-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+Content Type: image/png
+
+Uri: https://assets.calendly.com/assets/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+File Name: C:\Downloaded Web Sites\calendly.com\assets\touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+Content Type: image/png
+
+Uri: https://assets.calendly.com/assets/touch-icon-iphone-retina-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+File Name: C:\Downloaded Web Sites\calendly.com\assets\touch-icon-iphone-retina-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png
+Content Type: image/png
+
+Uri: https://assets.calendly.com/pxwebj3qd.js
+File Name: C:\Downloaded Web Sites\calendly.com\pxwebj3qd.js
+Content Type: text/javascript
+
+Uri: https://calendly.com/vanterworks/30min?month=2025-12
+File Name: C:\Downloaded Web Sites\calendly.com\vanterworks\30min.html
+Content Type: text/html
+
