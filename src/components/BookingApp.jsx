@@ -18,7 +18,6 @@ export function BookingApp({ eventTypeSlug }) {
 
   async function loadEventType() {
     try {
-      console.log('Loading event type:', eventTypeSlug)
       const { data, error } = await supabase
         .from('event_types')
         .select('*')
@@ -26,7 +25,6 @@ export function BookingApp({ eventTypeSlug }) {
         .eq('active', true)
         .maybeSingle()
 
-      console.log('Event type result:', { data, error })
       if (error) throw error
       setEventType(data)
     } catch (err) {

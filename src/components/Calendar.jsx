@@ -14,14 +14,12 @@ export function Calendar({ eventTypeSlug, onSelectDate }) {
   }, [eventTypeSlug])
 
   async function loadAvailability() {
-    console.log('Loading availability for:', eventTypeSlug)
     const { data: eventType, error } = await supabase
       .from('event_types')
       .select('*, availability_rules(*)')
       .eq('slug', eventTypeSlug)
       .single()
 
-    console.log('Availability result:', { eventType, error })
     if (eventType) {
       setAvailabilityRules(eventType.availability_rules)
       const available = new Set()
