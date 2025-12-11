@@ -18,6 +18,7 @@ export function BookingApp({ eventTypeSlug }) {
 
   async function loadEventType() {
     try {
+      console.log('Loading event type:', eventTypeSlug)
       const { data, error } = await supabase
         .from('event_types')
         .select('*')
@@ -25,6 +26,7 @@ export function BookingApp({ eventTypeSlug }) {
         .eq('active', true)
         .maybeSingle()
 
+      console.log('Event type result:', { data, error })
       if (error) throw error
       setEventType(data)
     } catch (err) {
@@ -52,7 +54,10 @@ export function BookingApp({ eventTypeSlug }) {
   if (loading) {
     return (
       <div className="booking-container">
-        <div className="loading">Loading...</div>
+        <div className="loading">
+          <h2>Loading booking page...</h2>
+          <p>Please wait while we load your booking information.</p>
+        </div>
       </div>
     )
   }
@@ -60,7 +65,11 @@ export function BookingApp({ eventTypeSlug }) {
   if (!eventType) {
     return (
       <div className="booking-container">
-        <div className="error">Event type not found</div>
+        <div className="error">
+          <h2>Event Not Found</h2>
+          <p>The requested booking page could not be found.</p>
+          <p>Looking for event: {eventTypeSlug}</p>
+        </div>
       </div>
     )
   }
